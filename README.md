@@ -32,6 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Solution](https://github.com/boymelvs/HTML-CSS-GRID-FLEXBOX-ORDER-SUMMARY-COMPONENT.git)
+- Live Site URL: [Live site](https://boymelvs.github.io/HTML-CSS-GRID-FLEXBOX-ORDER-SUMMARY-COMPONENT/)
 
 ### Built with
 
