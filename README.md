@@ -28,6 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+![Design Active State for the Order summary card coding challenge](./design/active-states.jpg)
 
 ### Links
 
