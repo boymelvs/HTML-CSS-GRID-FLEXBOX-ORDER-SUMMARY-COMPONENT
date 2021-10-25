@@ -31,12 +31,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/boymelvs/HTML-CSS-GRID-FLEXBOX-ORDER-SUMMARY-COMPONENT.git](https://your-solution-url.com)
+- Solution URL: [My Solution](https://github.com/boymelvs/HTML-CSS-GRID-FLEXBOX-ORDER-SUMMARY-COMPONENT.git)
 
 ### Built with
 
+- HTML
 - Flexbox
-- CSS Grid
+- CSS
+- Grid
 
 ## Author
 
